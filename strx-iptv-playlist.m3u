@@ -60,8 +60,6 @@ https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/match-planeta.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Матч! Планета
 https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/russky-ekstrim.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Русский Экстрим
-https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ufc.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Удар
 https://mfe.svc.ott.zala.by/hls/CH_UDAR_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/football-ru.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Футбол
