@@ -60,8 +60,6 @@ https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/match-planeta.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Матч! Планета
 https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ufc.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Удар
-https://mfe.svc.ott.zala.by/hls/CH_UDAR_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/football-ru.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Футбол
 https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/texno-24.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",24 Техно
@@ -88,10 +86,6 @@ https://mfe.svc.ott.zala.by/hls/CH_ZHIVPRIRODA_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/nasha-tema.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Наша тема
 https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ntv-pravo.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",НТВ Право
-https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ntv-style.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",НТВ Стиль
-https://mfe.svc.ott.zala.by/hls/CH_NTVSTIL_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/oruzhie.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Оружие
 https://mfe.svc.ott.zala.by/hls/EWEXU8FWAZ_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/oxotnik-i-rybolov-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Охотник и рыболов HD
