@@ -18,16 +18,12 @@ https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/mir.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Мир
 https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://epgx.site/p/euronews.png" group-title="Информационные",Euronews
+http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/eurosport1.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Eurosport 1
 https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT1_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus5.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Беларусь 5
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/novellatv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Novella TV
-https://mfe.svc.ott.zala.by/hls/CH_NOVELLA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/indijskoe-kino.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Индийское кино
-https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/zee-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Индия
-https://mfe.svc.ott.zala.by/hls/CH_INDIYA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kineko.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",КИНЕКО
 https://mfe.svc.ott.zala.by/hls/CH_KINEKO_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kinosemia.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Киносемья
@@ -36,16 +32,14 @@ https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_MIRSERIALA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/nash-kinopokaz.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Наш Кинопоказ HD
 https://mfe.svc.ott.zala.by/hls/CH_ZAL13_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/nashe-novoe-kino.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Наше новое кино
-https://mfe.svc.ott.zala.by/hls/CH_NASHNOVOEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/indijskoe-kino.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Индийское кино
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/zee-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",Индия
+https://mfe.svc.ott.zala.by/hls/CH_INDIYA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/nst.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",НСТ
 https://mfe.svc.ott.zala.by/hls/NEZVX5TVZX_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/sapfir.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Кино и сериалы",САПФИР
 https://mfe.svc.ott.zala.by/hls/CH_SAPFIR_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/bridge-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",BRIDGE TV DELUXE
-https://mfe.svc.ott.zala.by/hls/CH_BRIDGETVDEL_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/classic-music.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",Classic Music
-https://mfe.svc.ott.zala.by/hls/CH_CLASSICMUSIC_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/live-music-channel.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",Live Music Channel HD
 https://mfe.svc.ott.zala.by/hls/CH_LMC_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/muzyka-pervogo.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Музыкальные",Музыка Первого
@@ -54,8 +48,6 @@ https://mfe.svc.ott.zala.by/hls/CH_MUZYKAPERVOGO_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_KHLPRIME_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/m1global.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",M-1 Global
 https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kxl.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",КХЛ
-https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/match-planeta.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Матч! Планета
 https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/football-ru.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Футбол
@@ -92,8 +84,6 @@ https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kultura.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Россия Культура
 https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://epgx.site/p/euronews.png" group-title="Информационные",Euronews
-http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",В гостях у сказки
 https://mfe.svc.ott.zala.by/hls/CH_VGOSTYAH_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/unikum.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Детский
