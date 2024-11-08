@@ -18,8 +18,6 @@ https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
 https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/mir.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Мир
 https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" tvg-logo="https://ottplayer.tv/public/images/lib_channels/430.png" group-title="Музыкальные",БелМузТВ
-http://178.124.179.122:8088/BelMuzTV/index.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/eurosport1.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Eurosport 1
 https://mfe.svc.ott.zala.by/hls/CH_EUROSPORT1_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus5.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Беларусь 5
