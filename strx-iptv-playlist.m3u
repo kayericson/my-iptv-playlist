@@ -6,6 +6,9 @@ https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" channel-id="tnt" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575981806029.png",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ntv-belarus.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",НТВ-Беларусь
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/rtr-belarus.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",РТР-Беларусь
