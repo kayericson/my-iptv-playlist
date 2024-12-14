@@ -273,9 +273,6 @@ https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/poexali.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Поехали!
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kultura.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Познавательные",Россия Культура
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/sts-kids-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",СТС Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8
@@ -309,4 +306,3 @@ https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://epgx.site/p/pinsk-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Региoнальные",Пинск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8
-
