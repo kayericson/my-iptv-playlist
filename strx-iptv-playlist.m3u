@@ -114,7 +114,7 @@ http://mfe.svc.ott.zala.by/hls/CH_TV1000PREMIUM_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/vip-serial.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VIP Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_VIPSERIAL_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/viju-tv1000-novella.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV1000 новелла
+#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/viju-tv1000-novella.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV 1000 Новелла
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_TV1000NOVELLA_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/domkino.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Дом кино
@@ -198,12 +198,6 @@ http://mfe.svc.ott.zala.by/hls/CH_STARTWORLD_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/cosmostv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",CINEMA КОСМОС ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_CINEMACOSMOS_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/SUSPENSE.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Suspense
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-http://mfe.svc.ott.zala.by/hls/CH_SUSPENSE_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/8by.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",8 канал Беларусь
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-http://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/anekdottv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
@@ -216,9 +210,6 @@ http://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",В гостях у сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_VGOSTYAH_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/unikum.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Детский
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/CH_UNIKUM_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/detsky-mir.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Детские",Детский мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
@@ -282,9 +273,6 @@ https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/womens-magazine.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Развлекательные",Women's Magazine
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_WOMENMAG_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/kxl-hd.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/CH_KHLPRIME_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/bug-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Региoнальные",Буг ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_BUGTV_HLS/variant.m3u8
@@ -306,3 +294,6 @@ https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://epgx.site/p/pinsk-tv.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Региoнальные",Пинск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/8by.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",8 канал Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+http://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8
