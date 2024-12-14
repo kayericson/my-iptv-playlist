@@ -90,13 +90,13 @@ http://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/sony-scifi.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Sony Sci-Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",viju TV 1000
+#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/6WMZMUEWGN_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000-action.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",viju TV 1000 Action
+#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000-action.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV 1000 Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000-russkoe-kino.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",viju TV 1000 Русское кино
+#EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/tv1000-russkoe-kino.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",TV 1000 Русское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://iptvx.one/picons/vhs-ka.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",VHS-ка
