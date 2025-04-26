@@ -11,7 +11,7 @@ http://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575981806029.png",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/ntv-belarus.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",НТВ-Беларусь
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259492101.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Эфирные" logo="http://epg.openboxfan.com/picon/%D0%BD%D1%82%D0%B2%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.png" channelId="349" tvg-id="ntv-belarus",НТВ Беларусь
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/rtr-belarus.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",РТР-Беларусь
