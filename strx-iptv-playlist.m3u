@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.iptvx.one/epg.xml.gz"
+#EXTM3U url-tvg="https://epgx.club/EPG3" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 catchup="append" catchup-days="2" tvg-id="ont-by" catchup-source="&offset=-${offset}" group-title="Эфирные",ОНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
