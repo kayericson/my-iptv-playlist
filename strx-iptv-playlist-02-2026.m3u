@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://doas.top/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 catchup="append" catchup-days="2" tvg-id="ont-by" catchup-source="&offset=-${offset}" group-title="Эфирные",ОНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus1.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Беларусь 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
