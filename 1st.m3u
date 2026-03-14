@@ -1,4 +1,8 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/everyday_epg_update/main/data/EPG_LITE.xml.gz" catchup="shift" catchup-days="3" catchup-source="?utc=${utc}"
+#EXTM3U url-tvg="https://epg.it999.ru/epg2.xml.gz"
+#EXTINF:-1 tvg-id="perviykanal.ru" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_One_Russia_logo.svg/512px-Channel_One_Russia_logo.svg.png" group-title="Россия", catchup="append" catchup-days="7" catchup-source="?utc=${timestamp}", Первый канал HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVHD/variant.m3u8
+#EXTINF:-1 tvg-id="perviykanal.ru" tvg-name="Первый канал SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Channel_One_Russia_logo.svg/512px-Channel_One_Russia_logo.svg.png" group-title="Россия", catchup="append" catchup-days="7" catchup-source="?utc=${timestamp}", Первый канал SD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 -1 group-title="Эфирные" tvg-logo="http://epg.one/img2/146.png" channelId="1" tvg-id="pervy",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=QtcvU0csc8ahHWSFZe83bQ&e=2071401223&scheme=https
 #EXTINF:-1 -1 group-title="Эфирные" tvg-name="Первый канал -2ч" tvg-logo="https://i.ibb.co/SwsVHJCH/image-9.png",Первый канал
