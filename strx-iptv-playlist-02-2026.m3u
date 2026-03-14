@@ -1,16 +1,4 @@
 #EXTM3U url-tvg="https://doas.top/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-id="perviykanal.ru" tvg-name="Первый канал HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Channel_One_Russia_logo.svg" group-title="Россия" catchup="shift" catchup-days="1", Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="1tv.ru" catchup="append" catchup-days="2" catchup-source="?timeshift=${offset}",Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg" logo="http://ex.iptvin.ru/pic/2/HD-1024x555-tr.png" channelId="125" tvg-name="Первый канал",Первый канал HD (Outside)
-#EXTINF:-1,Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTGRP:Эфирные
-http://er-cdn.ertelecom.ru/os/video/hls/492965ffcee41b4548cf4516e3090ad2822d0f238f4b5d6841470fe1a42491dd2d3c2fe2bc013a63a412cc1a28cb2fcf9ed1668b0751bf4fd8fafc101911f397d0634018f81c5876cf27343225077dfb359f79ba1385854d2b9e32d5cd2d5066806ab801a09f02b633d55b051aca66aecbad3ca6c187aa5676f9a39219daa2cdd9270705eac38675df75f0006201f611808a1fe7410b569b12d11a41eeb7bbcf934e60a9da8a486ef19c22b879f8d55306b037209c34f6c0de63d678c3b6eb21d81302aa76af9b4cf1561fe6ef024135ce573fa1a9a6362677f443fb2cbdac292eeb6ac671fc0f241fc7c24719e1547a8a314e85fdb21eceb708eba34665f733202f9549f2927e194244ccab864a3143580fb82bffc69bb57889240c2ededf314446da4d1bb8489f9e1e9852e6b0efb36b77feed6ae33184a18bf0c5d31672a944a5e8fe00ad2bee50395b3e7c988fcd61ffcfd296736ee342d41aaf254789e5cfdb88f2fdd598c77db9749b21fe490a/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.one/img2/146.png" channelId="1" tvg-id="pervy",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=QtcvU0csc8ahHWSFZe83bQ&e=2071401223&scheme=https
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259010733.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://overlay.iptvin.online/epg/PIC/%D0%9E%D0%9D%D0%A2%20BY.png" channelId="347" tvg-id="ont-by",ОНТ Беларусь
@@ -140,9 +128,6 @@ http://mfe.svc.ott.zala.by/hls/CH_DOMPREMIUM_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/zee-tv.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Индия
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_INDIYA_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/kineko.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",КИНЕКО
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-http://mfe.svc.ott.zala.by/hls/CH_KINEKO_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/kinokomedia.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Кинокомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/CH_KINOCOMED_HLS/variant.m3u8
