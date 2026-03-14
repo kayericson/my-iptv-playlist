@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://raw.githubusercontent.com/Lorax121/everyday_epg_update/main/data/EPG_LITE.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U url-tvg="https://doas.top/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",первый-2026-3-15-01-03 http://iptvin.ru
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.one/img2/146.png" channelId="1" tvg-id="pervy",Первый канал
