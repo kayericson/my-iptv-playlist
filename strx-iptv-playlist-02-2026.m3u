@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://doas.top/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
-EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg" logo="http://ex.iptvin.ru/pic/2/HD-1024x555-tr.png" channelId="125" tvg-name="Первый канал",Первый канал HD (Outside)
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg" logo="http://ex.iptvin.ru/pic/2/HD-1024x555-tr.png" channelId="125" tvg-name="Первый канал",Первый канал HD (Outside)
 #EXTINF:-1,Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
