@@ -25,7 +25,7 @@ https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus2.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Беларусь 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164935385.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Яснае ТВ
+#EXTINF:-1 catchup="append" tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164935385.jpg"  catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Яснае ТВ
 https://mfe.svc.ott.zala.by/hls/CH_MINSKTV_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus3.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Эфирные",Беларусь 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
@@ -41,12 +41,6 @@ http://mfe.svc.ott.zala.by/hls/CH_BELMUZ_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/belarus5.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Беларусь 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/m1global.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",M-1 Global
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/match-planeta.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Матч! Планета
-#EXTVLCOPT:http-user-agent=Mozilla/5.1
-https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/football-ru.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
@@ -298,3 +292,9 @@ https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/8by.png" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",8 канал Беларусь
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
 http://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/m1global.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",M-1 Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_M1_HLS/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://epgx.site/p/match-planeta.png" catchup-days="2" catchup-source="&offset=-${offset}" group-title="Спортивные",Матч! Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8
