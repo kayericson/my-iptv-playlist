@@ -149,7 +149,6 @@ https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1766226009791.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт",Extreme
 https://mfe.svc.ott.zala.by/hls/CH_EXTREME_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://ex.iptvin.ru/pic/2/tvico-n52.png" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4",Матч ТВ
-#EXTGRP:Спорт
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588168112030.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://i.postimg.cc/m2TxzBy5/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",M-1 Global
