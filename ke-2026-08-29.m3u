@@ -106,10 +106,6 @@ https://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/BCPKKUK5NT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1701326811933.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://ex.iptvin.ru/pic/2/9355113d807a6a04d9b7172c2199d2d2.png" channelId="1815" tvg-id="zhivaya-priroda",Живая природа
 https://mfe.svc.ott.zala.by/hls/CH_ZHIVPRIRODA_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1689675234414.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://ex.iptvin.ru/pic/2/Zvezda-Plyus-285x171-tr.png" channelId="-1" tvg-id="zvezda-plus",Звезда Плюс
-https://mfe.svc.ott.zala.by/hls/CH_ZVEZDA_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1768181490001.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" channelId="-1" tvg-id="kluch",Ключ
-https://mfe.svc.ott.zala.by/hls/CH_KEY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1418416818693.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="https://i.postimg.cc/BnFvq5Kq/e2bd00f1b74aad7f41941afd1d065754.png" channelId="75" tvg-id="kuxnia-tv",Кухня ТВ
 https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1752225612460.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные",Лапки LIVE
