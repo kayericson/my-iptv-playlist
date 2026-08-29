@@ -148,10 +148,6 @@ https://mfe.svc.ott.zala.by/hls/CH_SOVSEKRET_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1561382082675.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Познавательные" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222" tvg-id="usadba",Усадьба
 https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1692357284918.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" tvg-id="red-lips", RL
-https://mfe.svc.ott.zala.by/hls/CH_REDLIPS_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1638259453010.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_78_1_70_1680000_0_0_0.png" channelId="276" tvg-id="russkaya-noch",RN
-https://mfe.svc.ott.zala.by/hls/CH_RUSSKAYANOCH_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1454571335205.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные" logo="http://overlay.iptvin.ru/epg/PIC/%D0%A2%D0%9D%D0%A2%20Int.png" channelId="2915" tvg-id="tnt-int-by",ТНТ International
 https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",СТС
