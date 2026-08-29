@@ -21,8 +21,6 @@ https://mfe.svc.ott.zala.by/hls/CH_TV1000MEGAHIT_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_TV1000PREMIUM_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677738922979.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="http://teleprogramma.tv/images/vip_serial.png" channelId="3894" tvg-id="vip-serial",ViP Serial
 https://mfe.svc.ott.zala.by/hls/CH_VIPSERIAL_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1767086220207.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",viju TV1000 romantica
-https://mfe.svc.ott.zala.by/hls/CH_TV1000DRAMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1739860068838.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",ЕвроКино
 https://mfe.svc.ott.zala.by/hls/CH_EVROKINO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1748855026647.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/y6rJgsyf/49dd91d5aec30501928147d42d794821.png" channelId="190" tvg-id="illuzion-plus",Иллюзион+
@@ -39,8 +37,6 @@ https://mfe.svc.ott.zala.by/hls/CH_KINOMAN_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_KINOSVIDANIE_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866189255.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киносемья international
 https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1646319790731.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Киносерия international
-https://mfe.svc.ott.zala.by/hls/CH_KINOSERIA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471866006494.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы",Кинохит international
 https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164859211.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Кино и сериалы" logo="https://i.postimg.cc/fkndkS30/b6d4dde925e3705a26de5af36cabddc3.png" channelId="314" tvg-id="lubimoe-kino",Любимое кино
